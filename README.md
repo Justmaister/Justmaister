@@ -2,7 +2,7 @@
 
 This page showcases my public GitHub projects, demonstrating my work in data engineering, analytics, and software development.
 
-## 🚀 Projects
+## 🚀 1-Projects
 
 ### 🔗 [Strava API Integration](https://github.com/Justmaister/strava_api)
 A comprehensive Strava API integration project that implements:
@@ -76,7 +76,7 @@ Advanced Power BI and Analysis Services project demonstrating sophisticated calc
 > Tech: Tabular Editor · DAX · Power BI · MDX
 
 
-## 📜 Certifications
+## 📜 2-Certifications
 
 ### 🎯 dbt Fundamentals
 - **Issuer:** dbt Labs
@@ -143,7 +143,7 @@ Advanced Power BI and Analysis Services project demonstrating sophisticated calc
 - **Verify:** [Verification Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-362c61dc-864c-463e-b921-abd2cf758adb.pdf)
 
 
-## 🛠️ Tech Stack
+## 🛠️ 3-Tech Stack
 
 - **Languages:** Python, SQL, Bash
 - **ETL & Orchestration:** dbt, Spark, Airflow
@@ -155,7 +155,7 @@ Advanced Power BI and Analysis Services project demonstrating sophisticated calc
 - **Data Inregrators:** Fivetran, Airbyte, Stitch
 - **Miscellaneous:** Salesforce, SAP, Jira, Google Analytics
 
-## 📬 Contact
+## 📬 4-Contact
 
 - 💼 [Just Sala LinkedIn](https://www.linkedin.com/in/just-sala/)
 - 📧 justmaister@gmail.com
