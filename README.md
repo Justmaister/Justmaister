@@ -145,15 +145,15 @@ Advanced Power BI and Analysis Services project demonstrating sophisticated calc
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, Bash
-**ETL & Orchestration:** dbt, Spark, Airflow
-**Data Warehousing:** Databricks, Snowflake, BigQuery, Redshift, SQL Server, PostgreSQL
-**Cloud Infrastructures:** AWS, GCP, Azure
-**Big Data:** Kafka, Hadoop, Delta Lake, Iceberg
-**Data Visualization & Reporting:** Power BI, Looker, Excel (Power Query), Tableau
-**Infrastructure & DevOps:** Terraform, Git, Jenkins, CI/CD, Docker, Kubernetes
-**Data Inregrators:** Fivetran, Airbyte, Stitch
-**Miscellaneous:** Salesforce, SAP, Jira, Google Analytics
+- **Languages:** Python, SQL, Bash
+- **ETL & Orchestration:** dbt, Spark, Airflow
+- **Data Warehousing:** Databricks, Snowflake, BigQuery, Redshift, SQL Server, PostgreSQL
+- **Cloud Infrastructures:** AWS, GCP, Azure
+- **Big Data:** Kafka, Hadoop, Delta Lake, Iceberg
+- **Data Visualization & Reporting:** Power BI, Looker, Excel (Power Query), Tableau
+- **Infrastructure & DevOps:** Terraform, Git, Jenkins, CI/CD, Docker, Kubernetes
+- **Data Inregrators:** Fivetran, Airbyte, Stitch
+- **Miscellaneous:** Salesforce, SAP, Jira, Google Analytics
 
 ## 📬 Contact
 
