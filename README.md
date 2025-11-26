@@ -25,35 +25,22 @@ Implementation of Google Analytics API for data extraction and analysis of websi
 
 > Tech: Python · Google Analytics API · Pandas · OAuth2
 
+### 🔗 [Streaming Data](https://github.com/Justmaister/streaming)
+Hands-on OPC-UA ➜ InfluxDB3 ➜ Grafana pipeline (`streaming/`). Includes a mock OPC-UA server (`mock-opc-ua.py`), Telegraf configuration, InfluxDB3 Explorer Docker setup, and a custom JS Grafana panel (`scatter_line_plot.js`) that highlights thresholds and latest readings for real-time alerting.
+
+> Tech: Python · opcua · InfluxDB3 · Telegraf · Grafana · Docker
+
+### 🔗 [Geofencing Analytics](https://github.com/Justmaister/Geofencing)
+Geospatial mobility analysis project (`Geofencing/`) using the GeoLife GPS trajectories dataset. Provides notebooks for trip cleaning, polygon-based geofencing, entry/exit detection, and visualization assets (GeoJSON/CVS) ready for KeplerGL or dashboard tooling.
+
+> Tech: Python · GeoPandas · Shapely · Folium · KeplerGL · Jupyter
+
 ### 🔗 [KeplerGL Visualization](https://github.com/Justmaister/KeplerGL)
 Geospatial data visualization project using KeplerGL for interactive mapping and data exploration. Includes two main projects:
 - Metro Barcelona: Interactive visualization of the Barcelona metro network with station locations, lines, and passenger flow data
 - Earthquakes Analysis: Real-time visualization of global earthquake data with magnitude, depth, and location information
 
 > Tech: Python · KeplerGL · GeoPandas · Jupyter
-
-### 🔗 [Data Modeling](https://github.com/Justmaister/data_modelling)
-Collection of data modeling projects showcasing different database design patterns and implementations. Features two main projects:
-- Cassandra Implementation: Time-series data modeling with optimized query patterns and partition key strategies
-- PostgreSQL Projects: Relational database designs with proper normalization, indexing strategies, and performance optimizations
-
-> Tech: SQL · Cassandra · PostgreSQL · ERD · csv
-
-### 🔗 [Excel Macros](https://github.com/Justmaister/macros_excel)
-Automation solutions using Excel VBA macros for data processing and reporting. Features include:
-- Automated email distribution system with dynamic recipient lists
-- Custom file attachment handling for different recipients
-- Time-saving automation of repetitive data processing tasks
-- Automated report generation and formatting
-
-> Tech: VBA · Excel
-
-### 🔗 [Streaming Data](https://github.com/Justmaister/streaming)
-Real-time data processing and streaming analytics implementations. Features two main projects:
-- Vehicle Trajectory Tracking: Real-time tracking and analysis of vehicle movements using streaming data
-- Power BI Real-time Streaming: Implementation of real-time data streaming dashboards in Power BI with live data updates
-
-> Tech: Python · Kafka · Requests · Geopandas · Plotly
 
 ### 🔗 [Machine Learning](https://github.com/Justmaister/Machine-Learning)
 Collection of machine learning models and implementations for various use cases. Features include:
@@ -75,14 +62,31 @@ Advanced Power BI and Analysis Services project demonstrating sophisticated calc
 
 > Tech: Tabular Editor · DAX · Power BI · MDX
 
+### 🔗 [Data Modeling](https://github.com/Justmaister/data_modelling)
+Collection of data modeling projects showcasing different database design patterns and implementations. Features two main projects:
+- Cassandra Implementation: Time-series data modeling with optimized query patterns and partition key strategies
+- PostgreSQL Projects: Relational database designs with proper normalization, indexing strategies, and performance optimizations
+
+> Tech: SQL · Cassandra · PostgreSQL · ERD · csv
 
 ## 📜 2-Certifications
 
-### 🎯 dbt Fundamentals
+### 🌟 Develop GenAI Apps with Gemini and Streamlit
+- **Issuer:** Google Cloud Skills Boost
+- **Date:** 2025/11
+- **Verify:** [Verification Link](https://www.credly.com/badges/bf01c0a3-6fac-4e8c-bccc-7290cd7e90f4)
+
+### 🎯 dbt Developer Certification
 - **Issuer:** dbt Labs
 - **Date:** 2025/05
 - **Credential ID:** 141701926
 - **Verify:** [Verification Link](https://credentials.getdbt.com/9a7901bb-927a-4469-858b-4c3b91dce68d#acc.Qh61doOv)
+
+### 🤖 Global AI Bootcamp 2025 - Munich
+- **Issuer:** Global AI Community
+- **Date:** 2025/05
+- **Credential ID:** 8c7bb517-b346-4ae9-926c-25161bd7b36d
+- **Verify:** [Verification Link](https://globalai.community/badges/8c7bb517-b346-4ae9-926c-25161bd7b36d/)
 
 ### 📊 Google Analytics Certified
 - **Issuer:** Google
@@ -158,4 +162,4 @@ Advanced Power BI and Analysis Services project demonstrating sophisticated calc
 ## 📬 4-Contact
 
 - 💼 [Just Sala LinkedIn](https://www.linkedin.com/in/just-sala/)
-- 📧 justmaister@gmail.com
+- 📧 just@justonebyte.com
